@@ -2,7 +2,7 @@
   <img src="https://imgur.com/ZeLGv9y.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Desa Yago</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Neon Fixr</h1>
 <h3 align="center">Full Stack Software Developement Student | JavaScript struggler | Front End Enthusiast</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/desa-yago//" target="blank"><img align="center" src="https://imgur.com/B6CK8zI.png" alt="desa" height="40" width="40" /></a>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    This is ME, Desa Yago, a <b>bootcamp student</b> from <a href="https://geekshubsacademy.com//"> <b>GeeksHubs Academy</b>, Valencia</a>. <br>
+    This is ME, Desa Yago, a <b> full stack developer student</b> from <a href="https://geekshubsacademy.com//"> <b>GeeksHubs Academy</b>, Valencia</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Front End Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> themselves and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
