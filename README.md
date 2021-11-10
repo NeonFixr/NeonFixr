@@ -30,7 +30,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuff...***
 
 ✔ Pronouns: ***He/She/They*** or ***TeamPlayer***😉 <br>
-✔ I’m currently learning @**GeeksHubs Academy**<br>
+✔ I’m currently learning @**GeeksHubs Academy** and working on <a href="https://github.com/NeonFixr/moviedbfront" target="blank">:woman_technologist:</a> (Click the emoji!)<br>
 ✔ I’m looking for help for learning **Front End**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
  
