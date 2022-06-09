@@ -11,13 +11,13 @@
 <p align="center"><img src="https://imgur.com/ZeLGv9y.png" height="200"/></p>
 <p align="center">
   <em>
-    I'm a budding <b>Full Stack Software Developer</b> and a <b>Front End Programming Enthusiast</b>,<br>who is <b>obsessed</b>
+    I'm a budding <b>Full Stack Software Developer</b> and a <b>Programming Enthusiast</b>,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> themselves and wants a <b>platform</b> to 
     <b>grow</b> and 
     <b>excel</b>&nbsp.
   </em> 
   <br>
-  <b><i>Learning @<a href="https://geekshubsacademy.com//"> <b>GeeksHubs Academy</b></a> while HOPING & HUSTLING!!!</i></b> 
+  <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neonfixr&label=Profile%20views&color=731bb7&style=flat" alt="viewsprofile" /> </p>
@@ -26,9 +26,8 @@
 
 &nbsp;***Talking about Personal Stuff...***
 
-✔ Pronouns: ***He/She/They*** or ***TeamPlayer***😉 <br><!-- ✔ I’m currently learning @**GeeksHubs Academy** - and working on <a href="" target="blank">:woman_technologist:</a> (Click the emoji!)<br> -->
-✔ I’m open to job opportunities located either in Spain or Scotland, preferably **Front End** positions but happy to work as Full Stack too.<br>
-✔ Ask me about anything through LinkedIn, I am happy to help!<br>
+✔ I’m open to job opportunities located either in Spain or Scotland, preferably **Full Stack** positions but happy to work as Front end or Back end too.<br>
+✔ Ask me about anything through LinkedIn, I am always happy to help!<br>
  
 <hr>
 
